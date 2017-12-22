@@ -1,0 +1,29 @@
+#nav{
+	float:right;
+}
+li{
+	display:block;
+}
+li:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
+p{
+	display:block;
+	text-align: center;
+	
+}
+#footer{
+	float:left;
+	margin-left:50px;
+}
+.form-control{
+	width:225px;
+	margin-bottom: 10px;
+}
+.blockquote-footer{
+	text-align:center;
+}
+#buscador{
+	display:block;
+}
